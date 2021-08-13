@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/fa/f9/4f/faf94fbebd13f0ce8e69cd1c65e6f5bd.gif);
+
+}
+
+#image1 {
+    border-radius: 50%;
+    border-style: ridge;
+    border-width: 25px;
+    border-color: darkorchid;
+
+}
+
+h1 {
+    font-size: 80px;
+    font-style: oblique;
+    color: springgreen;
+}
+
+p {
+    font-size: 30px;
+    color: gold;
+    font-style: italic;
+    text-shadow: 2px 2px gray;
+}
+
+.menu {
+    list-style: none;
+}
+
+.link {
+    float: left;
+    color: orangered;
+    font-family: Zen Dots;
+    padding-left: 9px;
+}
+
+.link:hover {
+    background-color: aliceblue;
+}
+
+#contact {
+    ;
+}
+
+.contact1 h3 {
+    display: inline;
+}
+
+a {
+    text-shadow: 2px 2px crimson;
+    color: orangered;
+    font-size: 32px;
+    border-style: dotted;
+    border-width: 6px;
+}
+
+image1 {
+    border-top-width: thick
+}
+
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
